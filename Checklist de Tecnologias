@@ -1,0 +1,28 @@
+1. Checklist de Tecnologias (O que você provavelmente encontrará)
+Infraestrutura de Rede e Segurança:
+Mikrotik: Será o seu "braço direito" para borda (link de internet), controle de banda (QoS para o Call Center não travar) e possivelmente túneis VPN para filiais ou home office.
+Fortigate: É o coração da segurança (NGFW). Você lidará com regras de Firewall, inspeção de pacotes, SD-WAN e controle de conteúdo (bloqueio de sites).
+Switching: Provavelmente switches gerenciáveis (VLANs) para separar o tráfego do Call Center, Administrativo e Servidores.
+Sistemas e Servidores (SO):
+Windows Server: Essencial para o AD (Active Directory), DNS, DHCP e File Server.
+Virtualização: Quase certo que usam VMware ou Hyper-V para gerir os servidores locais.
+Linux: Comum para serviços específicos como Zabbix (monitoramento) ou servidores de banco de dados.
+Softwares Específicos e Operação:
+ERP/Jurídico: Softwares como CP-Pro, ProJuris ou Themis.
+Discadores/Telefonia IP: Como possuem Call Center, você terá que entender de PABX IP (Asterisk/Issabel) ou soluções de mercado (Khomp, etc.).
+Bancos de Dados: Provavelmente SQL Server (padrão em softwares jurídicos).
+2. O Desafio: Migração Nuvem -> Local
+Isso exige atenção redobrada em:
+Backup: Se o dado não está mais na nuvem, o backup local precisa ser impecável (regra 3-2-1).
+Nobreaks e Climatização: A infraestrutura física da sede passa a ser crítica. Se o servidor parar, o escritório todo para.
+Disponibilidade: Planejar redundância de hardware (HA).
+3. Plano de Ação para os Primeiros Dias (Raciocínio Lógico)
+Como gestor, sua prioridade não é "apertar parafusos", mas garantir que a máquina funcione.
+Mapeamento (Inventário): Descubra onde está cada cabo. Peça o diagrama de rede. Se não existir, sua primeira tarefa é criá-lo.
+Monitoramento: Verifique se existe um Zabbix ou Grafana rodando. Você precisa de dashboards que mostrem se o link de internet ou o servidor do Call Center caiu antes que o telefone da sua mesa toque.
+Processos de Suporte: Analise o fluxo do N1 e N2. As chamadas estão sendo documentadas? Onde está a base de conhecimento?
+Segurança (Fortigate): Revise as políticas de acesso. Escritório de advocacia lida com a LGPD de forma muito sensível.
+Sugestão de estudo imediato:
+Mikrotik: Revise conceitos de Queues (QoS) e Firewall Filter.
+Fortigate: Entenda como funcionam as políticas de Web Filtering e Application Control.
+Gestão: Dê uma lida rápida em ITIL v4 (focado em Gerenciamento de Incidentes e Mudanças).
