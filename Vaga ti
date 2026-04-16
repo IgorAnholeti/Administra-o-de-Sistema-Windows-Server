@@ -1,31 +1,44 @@
-Gestão de Equipe:
+# Empresa OCL Advogados e Associados
 
-Supervisionar e coordenar a equipe de suporte técnico (N1, N2 e eventuais especialistas)
-Realizar gestão de performance, feedbacks e desenvolvimento da equipe
-Escalar e distribuir demandas de acordo com prioridades e capacidade técnica
-Treinar e capacitar membros da equipe em novas tecnologias e procedimentos
-Participar de processos seletivos e onboarding de novos colaboradores
+A OCL (Olivieri, Carvalho & Lievori) é uma sociedade de advogados com 30 anos de experiência nas áreas de Cobrança e Recuperação de Crédito e Direitos Consumerista, Empresarial, Previdenciário, Desportivo com atuação em todo território nacional. È uma empresa que se títula estar na vanguarda da inovação tecnológica as integrando soluções mais modernas do mercado com o talento de uma equipe de profissionais altamente qualificados.
+
+Esta empresa possui em sua sede dezenas de funcionários sendo eles de diversificados setores como recepção, call center de atendimento, ambientes administrativos, desenvolvimento entre outros...
+
+Estive em uma entrevista diretamente com o gesto do time de TI, faz 05 dias, para um vaga direcionada para atuação na infraestrutura de TI da empresa.
+
+Sobre as atribuições da vaga:
+
+Gestão de Equipe:
+-Supervisionar e coordenar a equipe de suporte técnico (N1, N2 e eventuais especialistas)
+-Realizar gestão de performance, feedbacks e desenvolvimento da equipe
+-Escalar e distribuir demandas de acordo com prioridades e capacidade técnica
+-Treinar e capacitar membros da equipe em novas tecnologias e procedimentos
+-Participar de processos seletivos e onboarding de novos colaboradores
 
 Gestão Operacional:
-
-Garantir o cumprimento de SLAs estabelecidos com as áreas de negócio
-Monitorar indicadores de performance (tempo de resposta, resolução, satisfação)
-Gerenciar incidentes críticos e coordenar war rooms quando necessário
-Manter documentação técnica atualizada e base de conhecimento
-Implementar melhorias contínuas nos processos de suporte
+-Garantir o cumprimento de SLAs estabelecidos com as áreas de negócio
+-Monitorar indicadores de performance (tempo de resposta, resolução, satisfação)
+-Gerenciar incidentes críticos e coordenar war rooms quando necessário
+-Manter documentação técnica atualizada e base de conhecimento
+-Implementar melhorias contínuas nos processos de suporte
 
 Gestão de Infraestrutura:
-
-Planejar e gerenciar a infraestrutura de TI (servidores, redes, segurança)
-Definir políticas de segurança da informação e backup
-Gerenciar contratos e relacionamento com fornecedores de TI
-Acompanhar ativos de TI e planejamento de renovação tecnológica
-Garantir disponibilidade e performance dos sistemas críticos
+-Planejar e gerenciar a infraestrutura de TI (servidores, redes, segurança)
+-Definir políticas de segurança da informação e backup
+-Gerenciar contratos e relacionamento com fornecedores de TI
+-Acompanhar ativos de TI e planejamento de renovação tecnológica
+-Garantir disponibilidade e performance dos sistemas críticos
 
 Gestão Estratégica:
-
-Participar do planejamento estratégico de TI
-Propor projetos de modernização e otimização da infraestrutura
-Elaborar orçamentos e controlar custos da área
-Reportar métricas e status para a diretoria
+-Participar do planejamento estratégico de TI
+-Propor projetos de modernização e otimização da infraestrutura
+-Elaborar orçamentos e controlar custos da área
+-Reportar métricas e status para a diretoria
 Atuar como consultor interno para demandas de tecnologia
+
+
+Durante a entrevista o líder citou comigo sobre os desafios de estar migrando alguns serviços da nuvem para local dentro das possibilidades, aproveitamento de recursos, citou que o roteador é Mikrotik, que la possui fortigate também.. 
+
+Discorra comigo sobre tudo isso, dentro do perfil de atuação da empresa e também de acordo com tudo que citei sobre a vaga e a entrevista faça um check list de todas as possíveis tecnologias envolvidas na operação da empresa, SO, controles de rede, administração de sistema, arquitetura da rede e protocolos envolvidos, VPN, tudo. 
+
+Recebi a mensagem faz 30 minutos, eu fui selecionado para vaga. Quero me prepara o máximo possível para o inicio das atividades, para pelo menos ter boa noção e raciocínio lógico sobre a infraestrutura da empresa
